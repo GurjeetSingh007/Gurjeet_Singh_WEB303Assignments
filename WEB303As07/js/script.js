@@ -13,7 +13,7 @@ $(function () {
         var modal = (function(){
             var $window = $(window);
             var $modal = $('<div class="modal"></div>');
-            var $Heading = ('<div class="modal-head"><h2>Your name Photo Gallery</h2></div>');
+            var $Heading = ('<div class="modal-head"><h2>Gurjeet SIngh Photo Gallery</h2></div>');
             var $content = $('<div class="modal-content"></div>');
             var $close = $('<button role="button" class="modal-close">close</button>');
 
