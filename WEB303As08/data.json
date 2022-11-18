@@ -1,0 +1,66 @@
+[
+    {
+        "firstName": "Sartaj",
+        "LastName": "Singh",
+        "roleType": "Inspector",
+        "season": "1-2",
+        "episode": "16"
+
+    },
+    {
+        "firstName": "Ganesh",
+        "LastName": "Gaitonde",
+        "roleType": "Gangster",
+        "season": "1-2",
+        "episode": "16"
+
+    },
+    {
+        "firstName": "Zoya",
+        "LastName": "Mirza",
+        "roleType": "Criminal",
+        "season": "1",
+        "episode": "11"
+
+    }, 
+    {
+        "firstName": "Malcom",
+        "LastName": "Murad",
+        "roleType": "International Criminal",
+        "season": "2",
+        "episode": "9"
+
+    }, 
+    {
+        "firstName": "Guru",
+        "LastName": "Ji",
+        "roleType": "Meditator",
+        "season": "1-2",
+        "episode": "9"
+
+    },
+    {
+        "firstName": "Jojo",
+        "LastName": "Mascarenas",
+        "roleType": "Prostitute",
+        "season": "1-2",
+        "episode": "8"
+
+    },
+    {
+        "firstName": "Kukoo",
+        "LastName": "Kukoo",
+        "roleType": "Transgender",
+        "season": "1",
+        "episode": "7"
+
+    },
+    {
+        "firstName": "Anjali",
+        "LastName": "Mathur",
+        "roleType": "Reporter",
+        "season": "1",
+        "episode": "8"
+
+    }
+]
